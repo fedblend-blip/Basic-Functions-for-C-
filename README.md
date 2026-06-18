@@ -1,4 +1,4 @@
-# Basic-Functions-for-C-
+# Basic-Functions-for-C++
 This repository contains basic functions that simplify programming in C++. Functions such as `print` and `delay` are included.
 # How to Use
 Simply place the files in your project's root folder and add them to CMakeLists.txt (if you're using CMake).
